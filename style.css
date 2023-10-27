@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lora', serif;
+    background-color: #beeb38;
+}
+.header_div {
+    background-color: white;
+    color: black;
+}
+.header_div p {
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #beeb38;
+}
+.main_div button {
+    font-weight: bolder;
+    letter-spacing: 3px;
+    width: 130px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(3, 1, 1);
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(240, 223, 223);
+    line-height: 3;
+}
+
+
+
+
+
